@@ -1,6 +1,4 @@
 [submodule "SwiftCarthage"]
-	path = SwiftCarthage
-	url = /Users/gxcao/Desktop/SwiftCarthage
 [submodule "SwiftStaticUI"]
 	path = SwiftStaticUI
 	url = https://github.com/Fulu5/SwiftStaticUI.git

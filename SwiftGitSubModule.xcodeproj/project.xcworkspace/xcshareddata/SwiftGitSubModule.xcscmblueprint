@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CF42FCE0F9883180AF761E0C18B3A1B6AF967537",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CF42FCE0F9883180AF761E0C18B3A1B6AF967537" : 9223372036854775807,
+    "44A14379D04BAB07D91D30684C21B66A4DC26796" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B60305C1-8C08-4D33-9538-FB7BE74C480F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CF42FCE0F9883180AF761E0C18B3A1B6AF967537" : "Submodule\/",
+    "44A14379D04BAB07D91D30684C21B66A4DC26796" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftGitSubModule",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftGitSubModule.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Fulu5\/Submodule.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "44A14379D04BAB07D91D30684C21B66A4DC26796"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Fulu5\/Submodule.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CF42FCE0F9883180AF761E0C18B3A1B6AF967537"
+    }
+  ]
+}
